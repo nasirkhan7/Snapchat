@@ -1,0 +1,11 @@
+.nav{
+    height: 50px;
+    width: 50px;
+    background-color: aqua;
+}
+.col{
+    height: 50px;
+    width:  150px;
+    background-color: cyan; 
+}
+

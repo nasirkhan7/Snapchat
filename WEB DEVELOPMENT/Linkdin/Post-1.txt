@@ -1,0 +1,5 @@
+"Hello!
+
+Today, I created an HTML file named 'myself.html'. This file is intended for the front-end of a website. I have described myself within it. "I have added some pictures and videos of myself." "I have adjusted the width of pictures and videos within it."
+
+Recently, I completed my Bachelor's in Software Engineering from THE UNIVERSITY OF LAHORE." 

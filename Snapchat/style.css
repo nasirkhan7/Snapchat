@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: #FFFC00;
+}
+.navigation{
+    align-items: center;
+    display: flex;
+    gap: 2rem;
+    justify-content: space-between;
+    margin: 1rem;
+    
+}
+.left{
+    display: flex;
+    gap: 1rem;
+}
+.logo i{
+    color:black;
+    background: white;
+    font-size: 25px;
+}
+.srch input{
+    border-radius: 5px;
+    height: 20px;
+}
+.srch i{
+    color:black;
+}
+
+.mid{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.mid li{
+    list-style: none;
+}
+.pause{
+    font-size: 2rem;
+}
+.play{
+    font-size: 2rem;
+}
+.chat{
+    font-size: 1.5rem;
+}
+.map{
+    font-size: 2rem;
+}
+.right{
+    display: flex;
+    gap: 1rem;
+}
+.menu{
+    color: black;
+    background: white;
+    border-radius: 50px;
+    width: 50px;
+    font-size: 20px;
+}
+.Ads{
+    border: none;
+    background: #000;
+    color: white;
+    padding: 20px;
+    border-radius: 30px;
+}
+.download{
+    
+    border: none;
+    background: #000;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    border-radius: 30px;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+}
